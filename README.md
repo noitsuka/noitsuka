@@ -7,7 +7,7 @@
 **Backend developer building APIs and data-driven services with Python, FastAPI and PostgreSQL.**
 
 [Email](mailto:gabrielbarretoxyz@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/gabriel-barreto-a662ab290)
+ · [LinkedIn](https://www.linkedin.com/in/gabriel-barreto-a662ab290)
 
 </div>
 
